@@ -6,3 +6,4 @@ This will also be changed and added to with features.
 # Test 2
 
 Started a release using GitFlow
+Additional change to release
